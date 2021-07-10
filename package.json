@@ -2,5 +2,8 @@
   "devDependencies": {
     "@openzeppelin/contracts": "^4.2.0",
     "ethereum-waffle": "^3.4.0"
+  },
+  "scripts": {
+    "build": "waffle"
   }
 }
